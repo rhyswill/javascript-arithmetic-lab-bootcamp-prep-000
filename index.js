@@ -7,3 +7,5 @@ number++;
 parseInt('2',10);
 parseInt('nonsense',10);
 add(1,80);
+parseInt('2.222',10);
+parseFloat('80.123999')
